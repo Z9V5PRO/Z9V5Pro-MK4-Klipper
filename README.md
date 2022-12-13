@@ -12,7 +12,7 @@ Not yet !!!
 
 NTC 100KOHM B3960 (Temperature sensor) ?
 
-PL-08N (Leveling sensor) ?
+PL-08N (Leveling sensor) -> 3D TOUCH
 
 
 ==============================================
