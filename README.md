@@ -51,8 +51,6 @@ Update...
 
 [include inputshaper.cfg]
 
-[include bltouch.cfg]
-
 [include 2in2out.cfg]
 
 .
@@ -61,6 +59,4 @@ Update...
 
 Coming soon...
 
-[include reprint.cfg]
-
-[include filament_switch.cfg]
+[include bltouch.cfg]
