@@ -6,7 +6,16 @@ Basic setting for new Z9V5PRO MK4
 usb-Klipper_stm32f103xe_150019000800004C3243504E-if00 -> usb-Klipper_stm32f103xe_31003800170000464C59504E-if00
 
 
+22.12.13 
 
+Not yet !!!
+
+NTC 100KOHM B3960 (Temperature sensor) ?
+
+PL-08N (Leveling sensor) ?
+
+
+==============================================
 .
 .
 
