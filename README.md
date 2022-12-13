@@ -3,6 +3,10 @@
 Basic setting for new Z9V5PRO MK4
 
 
+1) usb-Klipper_stm32f103xe_150019000800004C3243504E-if00 -> usb-Klipper_stm32f103xe_31003800170000464C59504E-if00
+
+
+
 .
 .
 
