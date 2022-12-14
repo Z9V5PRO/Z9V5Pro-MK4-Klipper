@@ -10,12 +10,18 @@ usb-Klipper_stm32f103xe_150019000800004C3243504E-if00 -> usb-Klipper_stm32f103xe
 
 Not yet !!!
 
-NTC 100KOHM B3960 (Temperature sensor) ?
+NTC 100KOHM B3960 (Temperature sensor) -> Generic 3950 (Change temporarily)
 
 PL-08N (Leveling sensor) -> 3D TOUCH
 
 
 ==============================================
+
+This is the setting for the above product(Z9V5Pro-MK4) and the previous product may have slightly different settings.
+
+==============================================
+
+.
 .
 .
 
@@ -24,6 +30,9 @@ and Z8PM4Pro (same control board, If you change it a little, it will be possible
 .
 .
 .
+
+
+
 
 Here, only the contents of installing Klipper on the above printer are included.
 
