@@ -1,18 +1,6 @@
-# Z9V5Pro-MK4-Klipper
+# Z9V5Pro MK4 for Klipper
 
-Basic setting for new Z9V5PRO MK4
-
-
-usb-Klipper_stm32f103xe_150019000800004C3243504E-if00 -> usb-Klipper_stm32f103xe_31003800170000464C59504E-if00
-
-
-22.12.13 
-
-Not yet !!!
-
-NTC 100KOHM B3960 (Temperature sensor) -> Generic 3950 (Change temporarily)
-
-PL-08N (Leveling sensor) -> 3D TOUCH
+Basic setting for new Z9V5PRO MK4 (2022.12)
 
 
 ==============================================
@@ -58,27 +46,3 @@ There is a wrong part of the above link.
 I wasted a lot of time trying to find it.
 
 and TMC stepper driver configuration, There is no setting, no information
-
-.
-
-.
-
-.
-
-Update...
-
-[include multiextruder.cfg]
-
-[include macro.cfg]
-
-[include inputshaper.cfg]
-
-[include 2in2out.cfg]
-
-.
-
-.
-
-Coming soon...
-
-[include bltouch.cfg]
