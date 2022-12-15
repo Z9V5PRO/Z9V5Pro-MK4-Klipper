@@ -1,6 +1,6 @@
 # Z9V5Pro MK4 for Klipper
 
-Basic setting for new Z9V5PRO MK4 (2022.12)
+Basic setting for new Z9V5PRO MK4 (2022.12) + 3D TOUCH
 
 
 ==============================================
