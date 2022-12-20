@@ -36,10 +36,15 @@ Good ideas are shared.
 
 Thank You!!
 
+.
+
+
+===========================
+
 
 https://github.com/ZONESTAR3D/Control-Board/tree/main/32bit/ZM3E4
 
-There is a wrong part of the above link.
+Please note that the data on the link may be different from the setting.
 
 I wasted a lot of time trying to find it.
 
