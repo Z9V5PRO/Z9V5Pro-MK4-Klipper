@@ -30,9 +30,7 @@ Almost does the desired operation.
 
 It became a printer with more possibilities.
 
-I am also a beginner, 
-
-so if there is a problem during installation, please solve it by yourself.
+I am also a beginner, however, send an email if you need help. kimsoo93@naver.com
 
 Good ideas are shared.
 
